@@ -3,6 +3,7 @@
 #wall .tag-1, 
 div#wall #tag-2,
 body div#wall #tag-3.slick,
-#wall .parent #tag-4{
+#wall .parent #tag-4,
+body div#wall .parent #tag-5.slick{
   display: none;
 }
