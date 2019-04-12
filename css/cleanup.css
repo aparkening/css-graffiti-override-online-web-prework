@@ -1,13 +1,12 @@
 /* Remove graffiti tags from page with display:none */
 
-#wall .tag-1 {
+#wall .tag-1, 
+div#wall #tag-2,
+body div#wall #tag-3.slick{
   display: none;
 }
 
-div#wall #tag-2 {  
-  display: none;
-}
 
-body div#wall #tag-3.slick {
-  display: none;
+#wall #tag-4 {
+  
 }
